@@ -1,17 +1,14 @@
 # Customer_Insights_analysis
 
 
-::contentReference[oaicite:0]{index=0}
 
-
-## Overview
-This project focuses on analyzing customer behavior using a complete data analytics workflow. The goal is to extract actionable insights from raw customer data by performing data cleaning, exploratory data analysis (EDA), SQL-based analysis, and interactive dashboard creation.
+## 📌 Project Overview
+This project focuses on analyzing customer behavior using a complete data analytics workflow. The goal is to extract actionable insights from raw customer data by performing data cleaning, exploratory data analysis (EDA), SQL-based analysis, and interactive dashboard creation using Power BI.
 
 ---
 
-## Dataset
+## 📊 Dataset
 
-::contentReference[oaicite:1]{index=1}
 
 
 The dataset contains customer shopping and transactional data, including:
@@ -22,23 +19,20 @@ The dataset contains customer shopping and transactional data, including:
 
 ---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
-::contentReference[oaicite:2]{index=2}
 
 
 - **Python** – Data loading, cleaning, and EDA  
 - **SQL (PostgreSQL / MySQL / SQL Server)** – Querying and analysis  
 - **Power BI** – Interactive dashboard  
 - **Excel** – Data preparation  
-- **Gamma** – Presentation (PPT)  
 - **GitHub** – Version control  
 
 ---
 
-## Project Steps
+## 🔄 Project Steps
 
-::contentReference[oaicite:3]{index=3}
 
 
 1. Load dataset using Python  
@@ -51,9 +45,8 @@ The dataset contains customer shopping and transactional data, including:
 
 ---
 
-## Dashboard
+## 📈 Dashboard
 
-::contentReference[oaicite:4]{index=4}
 
 
 The Power BI dashboard highlights:
@@ -64,9 +57,8 @@ The Power BI dashboard highlights:
 
 ---
 
-## Results & Insights
+## 📌 Results & Insights
 
-::contentReference[oaicite:5]{index=5}
 
 
 - Identified key customer segments  
@@ -75,9 +67,8 @@ The Power BI dashboard highlights:
 
 ---
 
-## How to Run
+## ▶️ How to Run
 
-::contentReference[oaicite:6]{index=6}
 
 
 1. Clone the repository  
@@ -88,5 +79,5 @@ The Power BI dashboard highlights:
 
 ---
 
-## License
+## 📜 License
 This project is licensed under the **MIT License**.

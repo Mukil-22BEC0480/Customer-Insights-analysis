@@ -58,7 +58,8 @@ The Power BI dashboard highlights:
 - Key performance indicators (KPIs)  
 - Business-focused insights
   
-  **Dashboard Preview:**  
+  **Dashboard Preview:**
+  
   [![Customer Insights Dashboard](Customer_Insights_dashboard_screenshot.png)](Customer_Insights_dashboard_screenshot.png)
 ---
 

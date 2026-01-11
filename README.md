@@ -16,8 +16,9 @@ The dataset contains customer shopping and transactional data, including:
 - Order and purchase information
 - Product and pricing data
 - Transaction dates and quantities
-**Source file:**
   
+  **Source file:**  
+  [Customer_insights_behavior.xlsx](Customer_insights_behavior.xlsx)
 
 ---
 
@@ -37,13 +38,13 @@ The dataset contains customer shopping and transactional data, including:
 
 
 
-1. Load dataset using Python  
-2. Perform Exploratory Data Analysis (EDA)  
-3. Clean and preprocess data  
-4. Run SQL queries for insights  
-5. Build Power BI dashboard  
-6. Create analytical report  
-7. Prepare presentation using Gamma  
+1. Load dataset using Python (Pandas)  
+2. Perform Exploratory Data Analysis (EDA) using Pandas  
+3. Clean and preprocess data using Pandas  
+4. Run SQL queries to derive insights  
+5. Build an interactive Power BI dashboard  
+6. Create an analytical report documenting queries and results  
+
 
 ---
 
@@ -55,8 +56,10 @@ The Power BI dashboard highlights:
 - Customer behavior trends  
 - Purchase and order analysis  
 - Key performance indicators (KPIs)  
-- Business-focused insights  
-
+- Business-focused insights
+  
+  **Dashboard Preview:**  
+  [![Customer Insights Dashboard](Customer_Insights_dashboard_screenshot.png)](Customer_Insights_dashboard_screenshot.png)
 ---
 
 ## 📌 Results & Insights

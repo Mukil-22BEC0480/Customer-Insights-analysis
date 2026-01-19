@@ -1,4 +1,4 @@
-# Customer_Insights_analysis
+# Customer_Analytics_and_Segmentation
 
 
 
